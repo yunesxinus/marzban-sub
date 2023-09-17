@@ -1,5 +1,4 @@
-<p align="center">
-#مراحل نصب
+
 1. دانلود فایل template
   
 ```sh
