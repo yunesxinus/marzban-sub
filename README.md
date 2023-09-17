@@ -1,6 +1,7 @@
 <p align="center">
 # مراحل نصب
 1. دانلود فایل template
+  
 ```sh
 sudo wget -N -P /var/lib/marzban/templates/subscription/  https://raw.githubusercontent.com/x0sina/marzban-sub/main/index.html
 ```
